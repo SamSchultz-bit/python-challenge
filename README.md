@@ -11,4 +11,4 @@ For PyPoll my program reads a CSV to count the total cumber of votes, as well as
 Both programs print the results to the terminal and write a text file to the analysis folder that corresponds to that program.
 
 ## Additional Information 
-All code is original, my only references were to my own notes from class and from previous programming course. 
+All code is original, my only references were to my own notes from class and from previous programming knowledge. 
